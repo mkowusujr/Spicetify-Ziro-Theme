@@ -1,5 +1,4 @@
-# Ziro
-## Screenshots
+# Ziro Screenshots
 ### Red Dark Original
 ![Profile](https://raw.githubusercontent.com/schnensch0/ziro/main/preview/profile-red-dark.png)
 ### Red Dark Tweaked
