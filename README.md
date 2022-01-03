@@ -4,7 +4,7 @@
 ### Red Dark Tweaked
 ![Current jpg](/tweaked-red-dark.jpg)
 Current Color Scheme
-![Current jpg](/original-color-scheme.jpg)
+![OG](/original-color-scheme.png)
 Original Color Scheme
 
 ## More
